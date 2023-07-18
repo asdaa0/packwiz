@@ -149,11 +149,6 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "87b04500c1c5fc78a76475ef341ed8d5d518b2a284b8ef2ee65734c8f03de6b8"
-metafile = true
-
-[[files]]
 file = "mods/controlify.pw.toml"
 hash = "68c0322999141a7721c729c9096706918cb8e8b073e019a10064cf7cbe607be3"
 metafile = true
@@ -241,11 +236,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2a6c67cc4488d589191a22463a453cdceec6381ee6be07c34b36983ae9f8dcec"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
