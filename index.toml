@@ -366,3 +366,8 @@ metafile = true
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f0b3ea0ae9f9509431fc8c7320e6c422576a1746f700122dec8c5bbc9468db25"
 metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+metafile = true
