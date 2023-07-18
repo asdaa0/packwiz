@@ -339,11 +339,6 @@ hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "87616c7a3467e54af078422dd46aa330dcb9df1ee20065d869776deed6984e79"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "5fd69e1d8928e17821aaf1d10ad8462272c2f92b2299f0b309eeb1731e27ac58"
 metafile = true
