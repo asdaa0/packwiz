@@ -139,6 +139,11 @@ hash = "507e08d6d797ba89b1934e94d25b0bfa6143a9576af3412aa91615e3bfae4d8d"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "d2681808167e81869c84ed5ca48110a422c63add64dfbc58d2dd9851cf5d239c"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "bed84ea542648fc65b622c84a0b9cb645b057005f29358c46afb03bd03200d9f"
 metafile = true
